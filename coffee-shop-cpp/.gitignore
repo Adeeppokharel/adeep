@@ -1,0 +1,6 @@
+coffee_shop
+coffee_shop.exe
+*.o
+*.dSYM/
+.DS_Store
+build/
